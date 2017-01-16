@@ -9,7 +9,7 @@ Install dependencies
 npm install
 ```
 
-Compile react javascript into vanilla js into public/js folder
+Run webpack server
 ```
 npm start
 ```
